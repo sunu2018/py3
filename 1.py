@@ -29,7 +29,7 @@ line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 # kk.log("Auth Token : " + str(kk.authToken))
 # kk.log("Timeline Token : " + str(kk.tl.channelAccessToken))
 
-# kc = LINE()
+# kc = LINE("su1nu2018@gmail.com","nunu_kap2018")
 # kc.log("Auth Token : " + str(kc.authToken))
 # kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
 
