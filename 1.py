@@ -21,11 +21,11 @@ line = LINE("susu76917@gmail.com","nunu_2018")
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
-# ki = LINE()
+# ki = LINE("bot4nu2018@gmail.com","nunu_kap0647706747")
 # ki.log("Auth Token : " + str(ki.authToken))
 # ki.log("Timeline Token : " + str(ki.tl.channelAccessToken))
 
-# kk = LINE()
+# kk = LINE("bot5nu2018@gmail.com","nunu_kap0647706747")
 # kk.log("Auth Token : " + str(kk.authToken))
 # kk.log("Timeline Token : " + str(kk.tl.channelAccessToken))
 
